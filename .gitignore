@@ -1,0 +1,11 @@
+models/
+*.gguf
+*.bin
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+*.apk
+.DS_Store
+*.log
