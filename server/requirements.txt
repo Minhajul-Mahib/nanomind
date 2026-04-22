@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.1
+llama-cpp-python==0.2.77
+psutil==5.9.8
+requests==2.32.3
