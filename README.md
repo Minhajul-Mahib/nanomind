@@ -10,6 +10,7 @@
 [![Min RAM](https://img.shields.io/badge/Min%20RAM-1GB-brightgreen)]()
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)]()
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows%20%7C%20Raspberry%20Pi-lightgrey)]()
+![NanoMind](demo.png)
 
 <br>
 
